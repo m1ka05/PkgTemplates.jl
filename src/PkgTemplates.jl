@@ -34,7 +34,8 @@ export
     SrcDir,
     TagBot,
     Tests,
-    TravisCI
+    TravisCI,
+    StaticFiles
 
 """
 Plugins are PkgTemplates' source of customization and extensibility.
